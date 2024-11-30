@@ -1,10 +1,10 @@
-<h2 align="left">About me 👨‍💻</h2>
+<h2 align="left">About me</h2>
 
 ###
 <h2 align="left">Hi 👋! My name is Bryan Odongo, an aspiring fullstack developer, tech enthusiast 🌐, and environmental advocate 🌱. I'm passionate about innovation and sustainability 🌍, always exploring new ideas and solutions 💡. Proudly from "The Green City in the Sun" Nairobi, Kenya.
 </h2>
 
-##@
+##
 
 <h2 align="left">Skills 👨‍💻</h2>
 
