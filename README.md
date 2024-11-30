@@ -1,10 +1,11 @@
 <h2 align="left">About me</h2>
 
 ###
+
 <h2 align="left">Hi 👋! My name is Bryan Odongo, an aspiring fullstack developer, tech enthusiast 🌐, and environmental advocate 🌱. I'm passionate about innovation and sustainability 🌍, always exploring new ideas and solutions 💡. Proudly from "The Green City in the Sun" Nairobi, Kenya.
 </h2>
 
-##
+###
 
 <h2 align="left">Skills 👨‍💻</h2>
 
@@ -50,6 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
   <img width="12" />
 </div>
+###
 
 ###
 
